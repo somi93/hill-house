@@ -1,0 +1,23 @@
+{
+  "layout": {
+    "menu": {
+      "home": "Početna",
+      "about": "O Nama",
+      "facilities": "Sadržaji",
+      "utilities": "Utilities",
+      "testimonials": "Testimonials",
+      "gallery": "Galerija",
+      "virtualTour": "Virtuelna Tura",
+      "map": "Mapa"
+    }
+  },
+  "home": {
+    "slider": {
+      "reserve": "Rezerviši",
+      "welcome": "DOBRODOŠLI U <q>HILL HOUSE</q>, LUKSUZNU VILU U BLIZINI BEOGRADA",
+      "title": "Zagrli Luksuz,<br/> Stvori Dragocene Trenutke"
+    },
+    "about": {
+    }
+  }
+}

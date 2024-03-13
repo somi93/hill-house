@@ -1,0 +1,23 @@
+{
+  "layout": {
+    "menu": {
+      "home": "Home",
+      "about": "About",
+      "facilities": "Facilities",
+      "utilities": "Utilities",
+      "testimonials": "Testimonials",
+      "gallery": "Gallery",
+      "virtualTour": "Virtual Tour",
+      "map": "Map"
+    }
+  },
+  "home": {
+    "slider": {
+      "reserve": "Reserve",
+      "welcome": "WELCOME TO <q>HILL HOUSE</q>, A LUXURY VILLA CLOSE TO BELGRADE",
+      "title": "Embrace Luxury,<br/> Craft Cherished Moments"
+    },
+    "about": {
+    }
+  }
+}
